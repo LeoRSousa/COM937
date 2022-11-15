@@ -1,0 +1,6967 @@
+fileFormatVersion: 2
+guid: c8bd5155c6a9fd645a5307cad2495d87
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba11d33a3ad602b42b93af769edb8ac6
+      internalID: 1975555903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf31b7a2996a344399887b6879612a2
+      internalID: -1724575614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9617b59224e5c5b439738015a8178d6b
+      internalID: 113552594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526bcf4bbc35be04886d9ddbc37632f2
+      internalID: 1817120030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defe304bf280fa7448b582f3194a0a0c
+      internalID: 1863218803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371b1a6a5340f0b4d9959ce07dc4eaaa
+      internalID: 22937196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92188babb84db324dbe9c526672d578f
+      internalID: -550657783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aed0dbaee12ed5469629d3e7c39106a
+      internalID: -1628777956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9537fff670f3b4f92d7e8c92b3690e
+      internalID: 1835282113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc62d286013b49a409b736359eda0996
+      internalID: -1108719528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967d8f923b1d405409dcd41b5f95a007
+      internalID: -1263773613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81397b5d3d1a0f64391d020e4cf48084
+      internalID: 427853064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d25b640a8def040a59c23b4c65f721
+      internalID: 1674169430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b33270876dfb924ba03d0ada994c218
+      internalID: -975929365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f39b05d5c4d2834d823a395f15c4203
+      internalID: 1930498336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd9d642e3747d14fa57665a99207832
+      internalID: -1399099811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead63ab48adde0741a32f2cf702bd249
+      internalID: 59573148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25edb6b5735fa648990d5a0db632185
+      internalID: 82407097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc7b4bac31e676428215b5a4c41cc1a
+      internalID: 765080497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0d334336e8126478b93d6ef7b09d10
+      internalID: -1335835721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5625fdce3b233747bd5d3bcbbb512de
+      internalID: -633481640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b06101454f479409a7d5a2c60f9270
+      internalID: 348727850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8efda4fa7e96f47849fe770aaa6249
+      internalID: -645185341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69795c98d81a27c418431d91ebb5c016
+      internalID: -1369329728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7036736e20576524e898d0b0df9a6542
+      internalID: -935283726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b26a985658519e4a87be231797ef18c
+      internalID: 1195393770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fafd4b06834d9e468d2a00296a41078
+      internalID: 1448823972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb77e49e5560634197f594e2857f23e
+      internalID: -315135146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa36c1b785d2dc40aa29d8f7ef35821
+      internalID: -1345623274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc180dc05d3e4241a0d49b9ae81cd4c
+      internalID: 1424006358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35538d14bca555646b271e922798b8a5
+      internalID: 578106816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cfe4a7d46632a43a6185cad12ce15d
+      internalID: 467986626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e0e3a26bddb384a8929631f99d1f0e
+      internalID: 725198512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee953158510ddc41889ddafc1cbd677
+      internalID: -1233281098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde2e849d509fc04f9b41112631a3bd1
+      internalID: 813055244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a4bb73f2c4aae49be7d6903bff31a3
+      internalID: 2009057270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1e32bbadeb4b649a5521b00e787a6c
+      internalID: -574512814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3607b440e7b67d4c94606604b6fa03f
+      internalID: -898287394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e6c8c020dd3c74a84a30d9284f541b
+      internalID: -1208315534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1092e6b6e15c144998104086f5a13e
+      internalID: -434954758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_40
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a96d595ebe84144bbc77fc66e860bdc
+      internalID: -522177053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94840da60c1072f4594d9ed45425cd25
+      internalID: 1972634705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198d2a30f79728b4a80a04790808291c
+      internalID: 466679920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd18b41343a292b4faddafeb89cee224
+      internalID: 1644401692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc916027ae5937949bd160280823cb6f
+      internalID: 1988701816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b61aadf9b78b8449531a6302d48f9f
+      internalID: 605491552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec45b7f4c3c781346a1397043d976971
+      internalID: 969615047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_47
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff56d128557c4fe4b8207aba210e7518
+      internalID: 1444555699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd91a05f3b0aa54dac273a3b9d41611
+      internalID: 2144539652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e50c36da65e6b45ada7f88f664d746
+      internalID: 188836035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6d2a30b4072f540aff91abc08445e3
+      internalID: -1061861360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57be25ece0ba7ae4b9b042b067c3cfc7
+      internalID: 1372029246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_52
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9d2bc3ba9d4504481a51e47466eacc
+      internalID: 836012545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0931c67858a7aab41aa0f8a6e4e94106
+      internalID: -1948774786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_54
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d475cd9f20c11b4d8fec5ecc20d08cd
+      internalID: 195184752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_55
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0b17b5888ab7b47985d657f0f1212b
+      internalID: 1164718262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41943034d3794f64fa5ef8cf1f49b978
+      internalID: 251027379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62af8f5f85cf27b40a90ac9c5c0e5293
+      internalID: -384754493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dcce2dee9e6974dadf1512da307dc0
+      internalID: 964217377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_59
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb3d18fd6779354bb32f57b683c5125
+      internalID: -1584189045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f55e3a499047c43beca3231ee1c804
+      internalID: -1382603162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51d8b48ae61e6e46a1f49a78e71b952
+      internalID: 690361091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835f2974106526a44a9c3a02b679c77f
+      internalID: -815017914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30543050300fd944974123fa0d4f3d9
+      internalID: 541829640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_64
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbddb5e9d55ee04dbef017684416dfa
+      internalID: 1935478066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e26b3988752c954eba7fb18d80ef537
+      internalID: -77359992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_66
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c720b05ea83eb745bd7ae08ba549b76
+      internalID: 397074668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ac3d85568f3394e991da607b44f854
+      internalID: -144398692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_68
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef851edfe3582c4bae3f92af1e5ed91
+      internalID: -1543248041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_69
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48e3f112d6f7674693b48e225816a6c
+      internalID: -628300963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca65b5db3a8cd04db4f149271645800
+      internalID: 498461110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_71
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb26f6bc3b74f34c85ef4bf0cc4a72e
+      internalID: 1715647427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_72
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b028d3344b13f64fbbc924dca94bcb0
+      internalID: -1960920065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8840994c9acf04c82c103ac5b24c59
+      internalID: 500669586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b530d12a98faf4cae8cc31c49c1002
+      internalID: -1213842186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_75
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cc30d03d54ae44dbe4b06550e1a882
+      internalID: 2117304318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1488e69e3c593439c717996d2b4574
+      internalID: 1178039117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9007cc118bdf7f641972037e7a7db9ce
+      internalID: -1256323265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad10ecdb5bd8104ca0ec8d3eb2147e3
+      internalID: 1642877921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_79
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc0eda9cd685e344b2c0603e3124d53
+      internalID: -402034690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_80
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5af3f9c82dde2a41aea34359f15ac21
+      internalID: 45403342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d87a0f48df042c42a0ba21947aac838
+      internalID: -393902805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_82
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33735be18699e4a48a6e47333268e3c8
+      internalID: -1537298372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba52e82f9f58f234fa39f42fd766055b
+      internalID: -983044544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8c0a7f75d460c42bf7263f7ddeccd8
+      internalID: 587481461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_85
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a7c7211020a674e8e6592cc25d3f4c
+      internalID: 2010477204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_86
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928df6391a2194e4e96dec3d8fc56100
+      internalID: -846706678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_87
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ced92daede401845a39dd1b8cf2c111
+      internalID: 67465186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39188d26f076ff644899b46e2a9ab051
+      internalID: 613752014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_89
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808b4cae16402164da2391017ea896a6
+      internalID: 779997599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_90
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483361875bc02a949a37c15e6e7701e8
+      internalID: 2117260594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5326b1cbb0947054aa451813008b0a51
+      internalID: 478070392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_92
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b210b09172ca794b84829b4d8713df2
+      internalID: 1787377183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_93
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15ca05481fdf2d458663fdf307fd602
+      internalID: 631661189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_94
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ec809bc7a685943b7efe51c04fa930
+      internalID: -1964040174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_95
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14446e4c65ec20c48a0909b0c203870a
+      internalID: 179483943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_96
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2412a5cb2c568544db350acf6e417a57
+      internalID: 132377895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_97
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466626db6c137da499bcefd83fa586ee
+      internalID: -1346619420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cbca330b07eb14289485ddc63d2485
+      internalID: -896413426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_99
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c085a2cf13d0da34eb004ef0fa941c1a
+      internalID: -2045283420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11f133881de52b4fb81fde8cca02347
+      internalID: 2114425109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_101
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06145501d54900f4793b84f301583d06
+      internalID: -1568393178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_102
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22d555ece0235a4f91136d18dbcf1a5
+      internalID: -26502850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c63b956a2d169b42a2608f5f31668c0
+      internalID: -24694079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_104
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883b9ce7608031d4a80bfdb2659ca0ed
+      internalID: 464604858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659fce37443d31b468969018eb8174f5
+      internalID: 716145786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_106
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89529f9793c3d074688b033bf5ebd3b6
+      internalID: 265234896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_107
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25434371b37e83b43a9702a302c028e7
+      internalID: -1801643834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_108
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431ed00dc0a98df419aa2b98f3a8fee2
+      internalID: 917339642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07048ef07c984774896185bdeaf9f5c4
+      internalID: 332378329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_110
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac400c41b4c33b64898103ae9636822d
+      internalID: 1637470304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_111
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377e251edae76824e9b9cd6a68430000
+      internalID: 2066744762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73eacf575d0e504c9c8f3255186a031
+      internalID: -1168273288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_113
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145f8d496c7f74a48905232cabb937f0
+      internalID: -1162259823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056a613bf9c9e694d9a39c4ea1e12de0
+      internalID: 1462001884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_115
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cf963bf5c939e4ead296e291a63c0f
+      internalID: 2132791344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_116
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c202d6de5c363b349a986c8eb413e35e
+      internalID: -1615975337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_117
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49174aa29e8773b4fb1fa608d5818ca3
+      internalID: 254231651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_118
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbbabb24526e5f438e984fe21685297
+      internalID: 1174399433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d84d4afd7ffb7e4a8877338481699a0
+      internalID: -353762450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_120
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9eef200e5b7d348bbf487722e6b56f
+      internalID: 313880269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_121
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e0327de0435584381bd951259d45b6
+      internalID: -1450570528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_122
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb65d86a175f4e6438ad3d15bc517bd3
+      internalID: -745643517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_123
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce45f3aba4955043a4ecb2c988e9bab
+      internalID: -2107257562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_124
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f07c063aa887a4b8208cc8b62d088d
+      internalID: 1123594014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_125
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a011d09786a0552439f951a984a92a2b
+      internalID: -248442763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5dc68e4d288d94989c6d8d4bb136b9
+      internalID: 2032805967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_127
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d1a2a48122f0e409c0560d6e52206f
+      internalID: -1440698945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_128
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889c7384660bab245ab7fd459ff4dab5
+      internalID: -804339698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_129
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7488661419aebec48872c98412e92927
+      internalID: 296700195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b20304e08e74554b85babd402975e07
+      internalID: -187103255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_131
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c6e5af0e92b3144ac6473cdcd36ea5
+      internalID: -1230651475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_132
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df76a31a90280ea4b8cdca470f1fb43b
+      internalID: 1010593967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f395b619655a1745ab1c2dfbb9b999b
+      internalID: -877163071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_134
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d4cd4db196e44419c07b762c564a42
+      internalID: -837248949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_135
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeac5fb5c29c6a645a0b0376f565762a
+      internalID: 454820200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_136
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1082a8f70166442499ff0cf8e1b382b6
+      internalID: -306214018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_137
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683197cdaea7fd6439454405e2571686
+      internalID: -1431540683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_138
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1366401bfe9b3384988506711e18c5b3
+      internalID: -1835712154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_139
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a90ff2c4a4d73246b78ae04078c6c6b
+      internalID: -263105455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4636eb4512385f41b7c2e7963fbef2e
+      internalID: 318509570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_141
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f2434dc71e49c429930c1c85c53cec
+      internalID: -1805364979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_142
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b53c9b785bd06e4c9c1cfb264b1ae08
+      internalID: -483034558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_143
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248f451a8ddecc947a3226b1bdc1dbb0
+      internalID: 261159234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_144
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3214c6342d65c4693dbaf0325062d5
+      internalID: 1478379285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_145
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f438b8d6d8687d34ab77b95ee70dcc09
+      internalID: 285253090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_146
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b5d852f6214cb4cbbe7c19055cd634
+      internalID: -949652118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d931ea15e66e464469531b66da09e979
+      internalID: -1403424716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_148
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbce588623ef83b4a88613ec8c578122
+      internalID: -1923975436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_149
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb2d6680bde0874995e980f896b9c29
+      internalID: -1986152785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_150
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e2a2e1af8b4224b87301220f4aba32
+      internalID: 909170582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_151
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b96628a24ab2fd4491ce7d225bbab3e
+      internalID: -1534657345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_152
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629462358d6687140b53fe194fb5e68b
+      internalID: 1082242370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_153
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b0acd0880a58f439a4d61ceac6f047
+      internalID: -2123362762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a516317940e08e04584bd48023df8e0d
+      internalID: 856108781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_155
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4b121d532dc864caeb61e59a85a796
+      internalID: -1314005112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_156
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d995907f231fed347bf74a82c33bdcb1
+      internalID: -319083100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_157
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccdebe163e11a54bb027e8b3ba1a242
+      internalID: -1604325322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_158
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112c4856f7b852749aa4f05e5050a14d
+      internalID: -3923086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_159
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa2bf6bdca3c89478fe9ff7300f9d46
+      internalID: -1190752772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_160
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcebd2be73534a04d95444ad040b0940
+      internalID: 630463199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8875dff7760bf564ea106e7ab8cfcb85
+      internalID: 1667070082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_162
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80573601a2c35474b9131efe7a30a5d9
+      internalID: 1395214058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_163
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1444ae077818a74dacf7ea5c97d5772
+      internalID: -1701896116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_164
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8ce5d534cbe9c408b904a5d5ae30d4
+      internalID: 2106430283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_165
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340b80b7e04978c4fb94fb15b905056d
+      internalID: 1287716729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_166
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3d924287fe35f48b732d7df4523f76
+      internalID: 1117076473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_167
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cd525c146b38b4895e62f8606f0a1e
+      internalID: -911618881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9b1ef2cc155544c8a3fedafd9b34e6
+      internalID: 1550797416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_169
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1a9be51aac77d4ba8ec1e8e15b7b65
+      internalID: 421820024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_170
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca673819e3e88d6409d8fa077cb8bdf9
+      internalID: 1015540293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_171
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce57c777f9b20e74dab68cf7c982eb97
+      internalID: -952301890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_172
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3507935519990a948a98f2c379bf058f
+      internalID: 980255001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_173
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3960eb006328a04494375012e5bf3fd
+      internalID: 1746597279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_174
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac9af1e9f1e5a041b765906216494a4
+      internalID: 1879582943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e15ebd4ff260941937eb5bdc189e05
+      internalID: -399987934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_176
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791901936724b2349a9c6e2687b2a39f
+      internalID: -1215415256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa90ee789e053e498bfa17e80e8f02f
+      internalID: -630252629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_178
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e600d278f14c9ba468124fc6ea0da970
+      internalID: -599648391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_179
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2eb7fa00a95234eaccada4bbd8dee5
+      internalID: -369315180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_180
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6c144f8b47b7449a3c963e9fbd4efb
+      internalID: 337944865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_181
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7626e0a19594a9743bea8b5fc9abd503
+      internalID: 281726249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2834c4eb5d2304c82b36c1f68a89f0
+      internalID: 414144451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_183
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3799ee8d1ee25f24a86b8fd1d1c7764e
+      internalID: 1357697081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_184
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e66b5ae91888ad4e90c2e2442c218d8
+      internalID: -1111299178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_185
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d9d46851889534a8e854f4ea51a3b9
+      internalID: 1309628218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_186
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa582f5092d5a2459328d2f8dd0a34d
+      internalID: 469091961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_187
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf359c8184e9b424eb5cbf43d4d41964
+      internalID: 1092493519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_188
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6816a7795a9f64aa6af73710b48ffe
+      internalID: 1600178798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40b7d4af3c379149b90f648781cdcc7
+      internalID: -2082202341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_190
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c8b22945cda094497cd8272aa9743d
+      internalID: -1275209378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_191
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfc4c394676764488d106945006b185
+      internalID: -2044567444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_192
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e00c9b660bd67d42b76ac1f71d37dc8
+      internalID: -992464968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_193
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef527f6e86c5c947b79b95e6ca9934b
+      internalID: 695081120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_194
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e65e21787563334c8bcfc88f77ea3b9
+      internalID: -1092113524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_195
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dac4afd2ae4bbb4d994a47d56fede98
+      internalID: 914194123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef148c8c46736f4aae73cce2b96b58a
+      internalID: -661853078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_197
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b639166b124659942b22a33aab7321da
+      internalID: -1894639794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_198
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0114a53f83289644ca20b6a7ae2ad28c
+      internalID: -290940418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_199
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fade6eac076f5bb46a99c8e02e39fec8
+      internalID: -2030242305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_200
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce52df6061d8de44bb61b33e0ab420b
+      internalID: -512556775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_201
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c3a26a883143a46a220dbf7bad14f5
+      internalID: -197857261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_202
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7c0a0c59a790847bf5e491cb7e23e9
+      internalID: -1486431046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_203
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302a2e9b35af8d04bb8d7693b837038a
+      internalID: -299572136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_204
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dda3c8f00086f340b354be1c9778b3a
+      internalID: -1641790943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_205
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b483fc6766930a4e9a0a58b8ff82865
+      internalID: 765973085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_206
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ee9c197cd166e4984d0d25554be914
+      internalID: 1017120713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_207
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d5e3bda51e59c4c849ceaa6b9c1a33
+      internalID: 145227882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_208
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914f530396972b8498957c3ae921d811
+      internalID: -1764771665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_209
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fae2a7ba7e74a4e8169bc30c8acc48
+      internalID: 935589004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2b05a51c95cd447aa497af1fb95d3e
+      internalID: 806992588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_211
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5b0aaefd15c9248ac8be4f1d6b7dc5
+      internalID: 1414423544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_212
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7666a9c8768445440a2021bf358f8b05
+      internalID: 64726351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_213
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfdbcd45342fb444897bbe15a8bedaa
+      internalID: -92272053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_214
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae729c74f6dfdcd4db3047ecf5257a92
+      internalID: 1472474715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_215
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939ccf4fc0b5a734ea689cff16f8daed
+      internalID: 1637614558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_216
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d525e003d05f624893a93e45562edf2
+      internalID: 135272140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_217
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4305533d965114394bb997f37f43c3
+      internalID: 1104520493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_218
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e76af154e58844cafcd38458dcd8f1
+      internalID: -759348475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_219
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6692d61e2a5aab543b6953a756dea17b
+      internalID: 139727110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_220
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d9db04541f991408b2dfdbf39d2555
+      internalID: -508571254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_221
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c797d61b5cf0a449bf20ba059f6992a
+      internalID: -206230086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_222
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b189aa438b07aea46ab2d2c1b9b3af3c
+      internalID: -16896926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_223
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a84fbecc3a8644b83b974f1f340ed9
+      internalID: 7479633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e76f17b2e81d5c4ab202b7540372cc1
+      internalID: -310427024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_225
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8a52a2922618d42b0df35067d9a503
+      internalID: 1548111099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_226
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15864dcc25a579141bf3ed1605be0fcd
+      internalID: -571447206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_227
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6614252b9f49add4e832ebfe117ea5a1
+      internalID: -449671888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_228
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15217920c57e71640be6d74e94094a24
+      internalID: -797861616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_229
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db63561563c80b34e874b46804ac6673
+      internalID: 1955868489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_230
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7b2e4b91869ea439d6bc9afc4fbcc1
+      internalID: 1541297213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_231
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c7ebe9f03327a4092c3294026937f3
+      internalID: -1842368088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_232
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4f0b774e5750747950601fab06f3db
+      internalID: -521486689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_233
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a840041520a69014381d190c5e691576
+      internalID: -1619370302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_234
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1dfdea3647aa944984b85a69cb0442
+      internalID: -1032055424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_235
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b431773b94814094bb04b2c4227c539e
+      internalID: -1506190125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_236
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4173c6385eea242b630a6a91336593
+      internalID: 1168485659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_237
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0fb0f300117884fa321fc760663c33
+      internalID: 483949354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_238
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ef0ff0338013247925fde949a72540
+      internalID: 1729947081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_239
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59c43bdc9d2a7e41ad2d7f8132f10f8
+      internalID: -1856124890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_240
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c76cb5fd6b64c4c82f1b139432efcb
+      internalID: 430111731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_241
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a6bef0113afa349acd0a6277775cda
+      internalID: 440165231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_242
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc7af3a3639bb347b3436c747f6845b
+      internalID: -1156818314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_243
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970c09da99208ea42bc8f28577868b0b
+      internalID: 678048977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_244
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6650274230c79044fa4ed515edf6ef3b
+      internalID: -1636333072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_245
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48edad919d7f3349951c16a81689a90
+      internalID: 437484450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_246
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b0bc35670231341bb86a28dbbc1d7a
+      internalID: 532015065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_247
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a809cfd2153c13041b52834f6091c8b2
+      internalID: -101931960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_248
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55c33c10dd048949a690003954f3b75
+      internalID: -1547646088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_249
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8b7d3b38a3321468319daaa587c819
+      internalID: 1010734707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_250
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2923a672743195741b2833cee1fde33a
+      internalID: 1435038470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_251
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04745d519bedb1448b32ee7ce730026f
+      internalID: 951059207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_252
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059b6328bb5d804499250eae862d9200
+      internalID: -1340940458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_253
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc22331193dfb9e48bedbcbfb134daa0
+      internalID: 1044534489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_254
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c800435ae093234a97b8b2b210c06c8
+      internalID: -1796672430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_255
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e60a66b35f283b469dc563a3cbcb730
+      internalID: -13333883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_256
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c11bcd2d55cfb4eba97958607dbd16
+      internalID: -1463902817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_257
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9c2bf1966362e4c98b88d83c251dca
+      internalID: -791278498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_258
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1ec4537eaf41145872dc6473e25c44
+      internalID: 340048304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_259
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c5e7448e8992741bfb803d2604c7e5
+      internalID: 934995679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_260
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce3382786756c14e9635ebc8a607935
+      internalID: 1752184849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_261
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1f4e55c1c25d34e89cee25e16e3674
+      internalID: 1901368329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_262
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565845cca89ac9d438222af6cc014e25
+      internalID: 1447717104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_263
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb8f8751f5640b408ee1607493f80ac
+      internalID: -964615620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_264
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015c30694b2ce3d43af565e05835f117
+      internalID: 1785884494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_265
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a8f8c2209ea13458495bc3b8e1f39f
+      internalID: 1309497162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_266
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1612a8696ec5204285cdb6ce31aea9c
+      internalID: -282064434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_267
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9afd44ba9976a41b74266426e9c7c1
+      internalID: 2100543510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_268
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1365c553f4a718f45aa67270b38b5f3b
+      internalID: 1773306968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_269
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743a2c7a2ca370445976863a55629d4d
+      internalID: -253535611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_270
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9805ee6679f30d447b06bcbc05211b18
+      internalID: 119841977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_271
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b155f38bc92bd54481cb3614564e384
+      internalID: 813560614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_272
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71860fe8877d6942839f1866a064920
+      internalID: -621088449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_273
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b173e46138a244f9c680644511ab84
+      internalID: 1726390094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_274
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccb168812a0d6b42b7275a2465a2ec5
+      internalID: -1928331905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_275
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0a35979caa16b42a2911afa2dd8951
+      internalID: 1145921424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_276
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547d5a80203341d41982f277fb6ac0a7
+      internalID: 1330305537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_277
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988925e9e6bebac4e856026599031c6e
+      internalID: 255965700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_278
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2deccd55465d84e9cd36bee510220e
+      internalID: 1011147098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_279
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d89c146c076a784c84425bb08c4093a
+      internalID: -664484559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_280
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77655e8634becf14f940c663267363fb
+      internalID: 33201577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_281
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a5d7d7928ab294b96c49010eb82910
+      internalID: 233632207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_282
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9faa895b5879e5e498d03840aaf7c970
+      internalID: 1685118911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_283
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618c44d710d4bf840bac9bd3be9434ce
+      internalID: 1959395372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_284
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb65828d213af64e87a8f62a86ed6a0
+      internalID: -1437374792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_285
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94abe424cb039b4db79cf86121e6cbf
+      internalID: -1028910245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_286
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8364a4dc924e4a54f947e6f9352f7e0a
+      internalID: 2112697321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_287
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa935ca8588932489358d7a87b488e0
+      internalID: -1211287689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_288
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22133e8ac97210043a981d63fb6d4aa4
+      internalID: -1155972394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_289
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c1c09fde872814e83182869b6826c0
+      internalID: -1867190737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_290
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca3062f5cc1c434badca699d4652059
+      internalID: -455686275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_291
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b783c777120e1e4d9fc44509b2742c3
+      internalID: -906031808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_292
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e482068cd46c79f40b1ba86209e59e16
+      internalID: 413031955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_293
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44b47c6ecff6a54698907a7930513bb
+      internalID: 1942311611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_294
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0659e97f43d9b0a44a5bd76fe2f4c908
+      internalID: 1547365070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_295
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04990970878098b4498bf9765e048202
+      internalID: -1890669767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_296
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ee0212ae79b0f459c9f3a13d44a358
+      internalID: 761390442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_297
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244941634167a1a48b3e6037338d7ca6
+      internalID: -971830331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_298
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b219d557b8c02479fb85449fbffdb3
+      internalID: 1206210221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_299
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6c89abcb80e75458cafed3182e05c5
+      internalID: 633103806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_300
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcd8e50f285fd5449dc9a61584dff65
+      internalID: -391408592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_301
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f73c4469e89584fbdab13c7aab45b1
+      internalID: -87389288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_302
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba76654a42bc28946af3ce39d543704e
+      internalID: -512835256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_303
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f28c5a22c4c77e44b968ab921208833
+      internalID: -1255793676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_304
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867f16df617246946be49dd7a27f76de
+      internalID: 1159181466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_305
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c731081039fca844ab533e53df14dd97
+      internalID: -58468568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_306
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970fbaeb62e0ed8429ad9094b3a10c5a
+      internalID: -1723478902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_307
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c02ff61dd668c346b415c913c106a96
+      internalID: 137366053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_314: -1976860459
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_95: 179483943
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_361: 1505985742
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_256: -1463902817
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_266: -282064434
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_192: -992464968
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_73: 500669586
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_234: -1032055424
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_333: 937156074
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_140: 318509570
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_285: -1028910245
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_88: 613752014
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_0: 1975555903
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_197: -1894639794
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_268: 1773306968
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_296: 761390442
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_58: 964217377
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_157: -1604325322
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_159: -1190752772
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_267: 2100543510
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_176: -1215415256
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_155: -1314005112
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_198: -290940418
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_332: -1389110099
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_39: -434954758
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_16: 59573148
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_352: -1529922060
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_339: -1707429052
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_222: -16896926
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_313: -379521119
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_345: 579047644
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_11: 427853064
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_163: -1701896116
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_231: -1842368088
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_297: -971830331
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_36: -574512814
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_91: 478070392
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_174: 1879582943
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_330: -643512806
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_40: -522177053
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_82: -1537298372
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_100: 2114425109
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_193: 695081120
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_191: -2044567444
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_206: 1017120713
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_276: 1330305537
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_9: -1108719528
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_350: 1599922188
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_48: 2144539652
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_322: 1331262624
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_230: 1541297213
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_168: 1550797416
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_218: -759348475
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_289: -1867190737
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_83: -983044544
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_177: -630252629
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_210: 806992588
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_272: -621088449
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_308: -1737604511
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_86: -846706678
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_327: 789076823
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_46: 969615047
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_50: -1061861360
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_72: -1960920065
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_135: 454820200
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_12: 1674169430
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_18: 765080497
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_92: 1787377183
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_117: 254231651
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_342: 1250871625
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_143: 261159234
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_273: 1726390094
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_259: 934995679
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_121: -1450570528
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_357: 1165651810
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_164: 2106430283
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_347: 738234444
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_7: -1628777956
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_248: -1547646088
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_275: 1145921424
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_257: -791278498
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_303: -1255793676
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_138: -1835712154
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_344: -1653230749
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_84: 587481461
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_128: -804339698
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_146: -949652118
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_274: -1928331905
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_172: 980255001
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_328: -483085852
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_109: 332378329
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_190: -1275209378
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_298: 1206210221
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_181: 281726249
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_49: 188836035
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_349: -1026110421
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_101: -1568393178
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_154: 856108781
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_315: 1549631697
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_271: 813560614
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_317: 1311440373
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_229: 1955868489
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_169: 421820024
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_278: 1011147098
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_94: -1964040174
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_118: 1174399433
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_158: -3923086
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_292: 413031955
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_160: 630463199
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_300: -391408592
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_277: 255965700
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_204: -1641790943
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_228: -797861616
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_105: 716145786
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_167: -911618881
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_130: -187103255
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_57: -384754493
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_152: 1082242370
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_331: 1042765465
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_31: 467986626
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_98: -896413426
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_232: -521486689
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_194: -1092113524
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_33: -1233281098
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_156: -319083100
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_180: 337944865
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_335: -795041101
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_13: -975929365
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_287: -1211287689
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_258: 340048304
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_97: -1346619420
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_129: 296700195
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_343: 2034324663
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_215: 1637614558
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_224: -310427024
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_104: 464604858
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_5: 22937196
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_293: 1942311611
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_112: -1168273288
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_340: 45355826
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_161: 1667070082
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_34: 813055244
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_246: 532015065
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_254: -1796672430
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_354: 1663358387
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_195: 914194123
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_280: 33201577
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_142: -483034558
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_171: -952301890
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_93: 631661189
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_44: 1988701816
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_356: 1526735443
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_127: -1440698945
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_75: 2117304318
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_261: 1901368329
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_23: -1369329728
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_205: 765973085
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_76: 1178039117
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_17: 82407097
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_55: 1164718262
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_288: -1155972394
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_295: -1890669767
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_185: 1309628218
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_66: 397074668
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_15: -1399099811
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_59: -1584189045
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_219: 139727110
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_318: 736625678
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_304: 1159181466
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_284: -1437374792
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_148: -1923975436
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_310: -201552632
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_245: 437484450
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_32: 725198512
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_61: 690361091
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_240: 430111731
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_165: 1287716729
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_320: 933535004
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_329: 444174907
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_90: 2117260594
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_63: 541829640
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_336: 1563831837
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_290: -455686275
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_70: 498461110
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_42: 466679920
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_136: -306214018
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_211: 1414423544
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_132: 1010593967
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_47: 1444555699
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_62: -815017914
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_99: -2045283420
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_141: -1805364979
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_337: 921135873
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_4: 1863218803
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_316: 1531975104
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_96: 132377895
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_360: 1814087777
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_237: 483949354
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_309: 562988091
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_173: 1746597279
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_85: 2010477204
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_312: 723777046
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_137: -1431540683
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_182: 414144451
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_19: -1335835721
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_305: -58468568
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_227: -449671888
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_166: 1117076473
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_3: 1817120030
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_249: 1010734707
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_151: -1534657345
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_122: -745643517
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_131: -1230651475
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_27: -315135146
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_183: 1357697081
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_260: 1752184849
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_119: -353762450
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_134: -837248949
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_53: -1948774786
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_103: -24694079
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_29: 1424006358
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_225: 1548111099
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_306: -1723478902
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_188: 1600178798
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_24: -935283726
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_28: -1345623274
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_359: 1201644108
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_8: 1835282113
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_184: -1111299178
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_60: -1382603162
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_242: -1156818314
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_213: -92272053
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_123: -2107257562
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_233: -1619370302
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_30: 578106816
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_351: 560110223
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_41: 1972634705
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_153: -2123362762
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_253: 1044534489
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_87: 67465186
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_189: -2082202341
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_264: 1785884494
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_51: 1372029246
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_216: 135272140
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_239: -1856124890
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_323: -603570193
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_65: -77359992
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_81: -393902805
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_150: 909170582
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_282: 1685118911
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_207: 145227882
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_54: 195184752
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_64: 1935478066
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_10: -1263773613
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_45: 605491552
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_247: -101931960
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_2: 113552594
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_126: 2032805967
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_283: 1959395372
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_102: -26502850
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_238: 1729947081
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_324: 1853369399
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_125: -248442763
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_26: 1448823972
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_302: -512835256
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_223: 7479633
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_43: 1644401692
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_358: -1031073147
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_139: -263105455
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_35: 2009057270
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_263: -964615620
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_113: -1162259823
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_279: -664484559
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_235: -1506190125
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_319: 2140678936
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_201: -197857261
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_200: -512556775
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_294: 1547365070
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_241: 440165231
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_307: 137366053
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_338: -2119520416
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_299: 633103806
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_20: -633481640
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_78: 1642877921
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_80: 45403342
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_326: 138178772
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_52: 836012545
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_14: 1930498336
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_21: 348727850
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_69: -628300963
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_269: -253535611
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_111: 2066744762
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_71: 1715647427
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_106: 265234896
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_178: -599648391
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_217: 1104520493
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_56: 251027379
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_209: 935589004
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_355: -1926108033
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_270: 119841977
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_334: 1224498232
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_202: -1486431046
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_321: -453210331
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_107: -1801643834
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_74: -1213842186
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_208: -1764771665
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_251: 951059207
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_281: 233632207
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_286: 2112697321
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_6: -550657783
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_124: 1123594014
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_114: 1462001884
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_341: -1799550652
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_203: -299572136
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_145: 285253090
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_196: -661853078
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_250: 1435038470
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_221: -206230086
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_265: 1309497162
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_186: 469091961
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_348: 428889189
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_144: 1478379285
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_244: -1636333072
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_1: -1724575614
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_25: 1195393770
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_175: -399987934
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_362: 373038451
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_77: -1256323265
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_346: -843515443
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_214: 1472474715
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_120: 313880269
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_243: 678048977
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_38: -1208315534
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_67: -144398692
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_199: -2030242305
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_353: 37760046
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_79: -402034690
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_187: 1092493519
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_252: -1340940458
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_115: 2132791344
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_149: -1986152785
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_226: -571447206
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_301: -87389288
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_220: -508571254
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_212: 64726351
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_116: -1615975337
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_311: 1834388036
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_255: -13333883
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_262: 1447717104
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_110: 1637470304
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_89: 779997599
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_325: -1417931733
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_162: 1395214058
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_363: -1178273369
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_170: 1015540293
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_291: -906031808
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_133: -877163071
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_37: -898287394
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_147: -1403424716
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_68: -1543248041
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_22: -645185341
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_108: 917339642
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_179: -369315180
+      Tile-set - Toen's Medieval Strategy (16x16) - v.1.0_236: 1168485659
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
