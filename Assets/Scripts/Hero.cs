@@ -12,9 +12,15 @@ public class Hero : MonoBehaviour
     BoxCollider2D boxCollider;
     float playerVelo = 3;
     Vector2 playerInput;
+    
+    //Vida é o total de HP atual que pode ser aumentada por cura até a vida máxima. Vida max é o valor máximo de vida que pode ser aumentado por itens.
     private int vida = 10;
+    private int vidaMax = 10;
+    
     //public string[] playerItems = new string[] {"Arma", "Escudo"};
     private List<string> _playerItems = new List<string>();
+
+    [SerializeField] public float dmgDur;
 
     /*[Header("Variáveis Dash")]
     [SerializeField]private float dashSpeed = 30;
@@ -22,7 +28,8 @@ public class Hero : MonoBehaviour
     [SerializeField]private float dashCD;
     private bool canDash = true;*/
 
-    public Life _life;
+    private Life _life;
+    private GameObject _death;
 
     // Start is called before the first frame update
     void Start()
@@ -31,6 +38,8 @@ public class Hero : MonoBehaviour
         playerAnimator = GetComponent<Animator>();
         boxCollider = GetComponent<BoxCollider2D>();
         _life = FindObjectOfType<Life>();
+        _death = GameObject.FindWithTag("MorteUI");
+        _death.SetActive(false);
     }
 
     // Update is called once per frame
@@ -43,7 +52,7 @@ public class Hero : MonoBehaviour
 
         playerRb.velocity = new Vector2(playerInput.x*playerVelo, playerInput.y*playerVelo);
 
-        bool isRunning = Mathf.Abs(playerRb.velocity.x) > Mathf.Epsilon;
+        bool isRunning = (Mathf.Abs(playerRb.velocity.x) > Mathf.Epsilon) || (Mathf.Abs(playerRb.velocity.y) > Mathf.Epsilon);
 
         playerAnimator.SetBool("isRunning",isRunning);
 
@@ -76,19 +85,47 @@ public class Hero : MonoBehaviour
     public void TomaDano(int val)
     {
         vida -= val;
-        _life.SetDamage(vida.ToString());
-        //print("Vida: "+vida);
+        _life.SetValue(vida.ToString(), "Life");
+        if (vida <= 0) Morte();
+        StartCoroutine(DanoCoroutine());
+    }
+
+    IEnumerator DanoCoroutine()
+    {
+        playerAnimator.SetBool("isDamaged", true);
+        yield return new WaitForSeconds(dmgDur);
+        playerAnimator.SetBool("isDamaged", false);
+    }
+
+    public void Morte()
+    {
+        playerAnimator.SetBool("isDeath", true);
+        _death.SetActive(true);
+    }
+
+    /// <summary>
+    /// Caso a vida já estiver cheia, sai da função. Se não, aumenta a vida e atualiza a UI.
+    /// </summary>
+    public void Cura()
+    {
+        if (vida >= vidaMax) return;
+        vida++;
+        _life.SetValue(vida.ToString(), "Life");
+    }
+
+    public void AddLife()
+    {
+        vidaMax++;
+        _life.SetValue(vidaMax.ToString(), "LifeMax");
     }
 
     public void AddItem(string item)
     {
         print("ADD ITEM: " + item);
         _playerItems.Add(item);
-        //print("Contagem dos items: ");
         foreach (var t in _playerItems)
         {
             print(t);
         }
-        //print("\n Último item: " + playerItems[playerItems.Length]);
     }
 }
