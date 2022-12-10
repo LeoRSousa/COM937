@@ -34,7 +34,7 @@ public class Enemy1 : MonoBehaviour
     {
         if (col.gameObject.name == "Hero")
         {
-            _hero.TomaDano(1);
+            _hero._life.TomaDano(1);
         }
         enemyVelocidade = -enemyVelocidade;
         FlipSprite();

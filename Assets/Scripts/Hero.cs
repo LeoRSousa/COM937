@@ -8,14 +8,10 @@ using UnityEngine.InputSystem;
 public class Hero : MonoBehaviour
 {
     Rigidbody2D playerRb;
-    Animator playerAnimator;
+    public Animator playerAnimator;
     BoxCollider2D boxCollider;
     float playerVelo = 3;
     Vector2 playerInput;
-    
-    //Vida é o total de HP atual que pode ser aumentada por cura até a vida máxima. Vida max é o valor máximo de vida que pode ser aumentado por itens.
-    private int vida = 10;
-    private int vidaMax = 10;
     
     //public string[] playerItems = new string[] {"Arma", "Escudo"};
     private List<string> _playerItems = new List<string>();
@@ -28,8 +24,8 @@ public class Hero : MonoBehaviour
     [SerializeField]private float dashCD;
     private bool canDash = true;*/
 
-    private Life _life;
-    private GameObject _death;
+    public Life _life;
+    public GameObject _death;
 
     // Start is called before the first frame update
     void Start()
@@ -82,50 +78,11 @@ public class Hero : MonoBehaviour
         //playerRb.velocity = new Vector2(playerInput.x*playerVelo, playerInput.y*playerVelo);
     }*/
 
-    public void TomaDano(int val)
-    {
-        vida -= val;
-        _life.SetValue(vida.ToString(), "Life");
-        if (vida <= 0) Morte();
-        StartCoroutine(DanoCoroutine());
-    }
-
-    IEnumerator DanoCoroutine()
+    public IEnumerator DanoCoroutine()
     {
         playerAnimator.SetBool("isDamaged", true);
         yield return new WaitForSeconds(dmgDur);
         playerAnimator.SetBool("isDamaged", false);
     }
-
-    public void Morte()
-    {
-        playerAnimator.SetBool("isDeath", true);
-        _death.SetActive(true);
-    }
-
-    /// <summary>
-    /// Caso a vida já estiver cheia, sai da função. Se não, aumenta a vida e atualiza a UI.
-    /// </summary>
-    public void Cura()
-    {
-        if (vida >= vidaMax) return;
-        vida++;
-        _life.SetValue(vida.ToString(), "Life");
-    }
-
-    public void AddLife()
-    {
-        vidaMax++;
-        _life.SetValue(vidaMax.ToString(), "LifeMax");
-    }
-
-    public void AddItem(string item)
-    {
-        print("ADD ITEM: " + item);
-        _playerItems.Add(item);
-        foreach (var t in _playerItems)
-        {
-            print(t);
-        }
-    }
+    
 }

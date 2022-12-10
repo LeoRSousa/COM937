@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Threading;
+using TMPro;
 using Unity.VisualScripting.Dependencies.NCalc;
 using UnityEngine;
 using UnityEngine.Serialization;
@@ -12,6 +13,7 @@ public class ChestShip : MonoBehaviour
     private Animator chestAnimator;
 
     private Hero _hero;
+    private GameObject _dialogue;
 
     [SerializeField] private int shipPart;
     private static readonly int IsOpen = Animator.StringToHash("isOpen");
@@ -21,6 +23,8 @@ public class ChestShip : MonoBehaviour
     {
         chestAnimator = GetComponent<Animator>();
         _hero = FindObjectOfType<Hero>();
+        _dialogue = GameObject.FindWithTag("ShipPartDialogue");
+        _dialogue.SetActive(false);
     }
 
     private void OnTriggerEnter2D(Collider2D col)
@@ -30,8 +34,17 @@ public class ChestShip : MonoBehaviour
         //Caso o baú não esteja aberto, ele irá dar uma parte da nave
         if (!chestAnimator.GetBool(IsOpen))
         {
-            print("Você recebeu uma parte da sua nave!");
+            StartCoroutine(ItemDialogue());
+            //print("Você recebeu uma parte da sua nave!");
+            _hero._life.AddShipParts();
         }
         chestAnimator.SetBool(IsOpen, true);
+    }
+    
+    private IEnumerator ItemDialogue()
+    {
+        _dialogue.SetActive(true);
+        yield return new WaitForSeconds(3);
+        _dialogue.SetActive(false);
     }
 }

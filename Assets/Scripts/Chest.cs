@@ -8,19 +8,23 @@ using Random = System.Random;
 
 public class Chest : MonoBehaviour
 {
-    public enum Items {Espada, Machado, Escudo, Poção, Fogo}
+    public enum Items {Espada, Machado, Poção, Fogo}
     private Animator chestAnimator;
 
     private Hero _hero;
-
-    private Thread addItem;
+    private GameObject _dialogue;
 
     private Items currentItem;
+
+    private static readonly int IsOpen = Animator.StringToHash("isOpen");
+
     // Start is called before the first frame update
     void Start()
     {
         chestAnimator = GetComponent<Animator>();
         _hero = FindObjectOfType<Hero>();
+        _dialogue = GameObject.FindWithTag("ItemDialogue");
+        _dialogue.SetActive(false);
     }
 
     // Update is called once per frame
@@ -31,24 +35,23 @@ public class Chest : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D col)
     {
+        if(col.name != "Hero") return;
         //Caso o baú não esteja aberto, ele irá dar um item aleatório para o player
-        if (!chestAnimator.GetBool("isOpen"))
+        if (!chestAnimator.GetBool(IsOpen))
         {
-            var values = Enum.GetValues(typeof(Items));
+            /*var values = Enum.GetValues(typeof(Items));
             var rdn = (Items)values.GetValue(new Random().Next(values.Length));
-            //currentItem = rdn;
-            print("Rdn: " + rdn);
-            _hero.AddItem(rdn.ToString());
-            //addItem = new Thread(AddItem);
-            //addItem.Start();
+            _hero.AddItem(rdn.ToString());*/
+            StartCoroutine(ItemDialogue());
         }
-        chestAnimator.SetBool("isOpen", true);
+        chestAnimator.SetBool(IsOpen, true);
     }
 
-    //private void AddItem()
-    //{
-        //_hero.AddItem(currentItem);
-    //}
-    
-    //private Items 
+    private IEnumerator ItemDialogue()
+    {
+        _dialogue.SetActive(true);
+        yield return new WaitForSeconds(2);
+        _dialogue.SetActive(false);
+    }
+
 }

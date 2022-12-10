@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - MorteUI
+  - ItemDialogue
+  - ShipPartDialogue
   layers:
   - Default
   - TransparentFX

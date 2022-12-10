@@ -10,11 +10,18 @@ public class LevelLoader : MonoBehaviour
 
     public void LoadScene()
     {
+        if (sceneIndex == 1)
+        {
+            PlayerPrefs.SetInt("vidaQt", 10);
+            PlayerPrefs.SetInt("vidaMax", 10);
+            PlayerPrefs.SetInt("PlayerDano", 1);
+        }
         SceneManager.LoadScene(sceneIndex);
     }
 
     private void OnTriggerEnter2D(Collider2D col)
     {
+        PlayerPrefs.Save();
         LoadScene();
     }
 }

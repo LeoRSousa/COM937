@@ -14,7 +14,7 @@ public class Heal : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D col)
     {
-        _hero.Cura();
+        _hero._life.Cura();
         Destroy(this.gameObject);
     }
 }
