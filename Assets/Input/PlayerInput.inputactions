@@ -40,6 +40,15 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
+                },
+                {
+                    "name": "Shoot",
+                    "type": "Button",
+                    "id": "26b1fe35-762a-42bd-89c9-c5c6ddb16775",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -265,12 +274,12 @@
                 },
                 {
                     "name": "",
-                    "id": "19416055-ba40-4373-8f80-9a48b1ed86d8",
+                    "id": "fcf5b6a1-f4ce-466e-b6eb-7030d5630760",
                     "path": "<Keyboard>/space",
                     "interactions": "",
                     "processors": "",
                     "groups": "Keyboard&Mouse",
-                    "action": "Dash",
+                    "action": "Shoot",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

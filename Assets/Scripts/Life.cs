@@ -30,12 +30,12 @@ public class Life : MonoBehaviour
         AttView();
     }
 
-    private void Update()
+    /*private void Update()
     {
         PlayerPrefs.SetInt("vidaQt", vida);
         PlayerPrefs.SetInt("vidaMax", vidaMax);
         PlayerPrefs.SetInt("PlayerDano", _dano);
-    }
+    }*/
 
     /// <summary>
     /// Muda os valores da vida e da vida máxima

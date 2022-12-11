@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 using TMPro;
 using UnityEngine;
 using UnityEngine.InputSystem;
@@ -62,13 +63,6 @@ public class Hero : MonoBehaviour
 
     void OnMove(InputValue inputValue){
         playerInput = inputValue.Get<Vector2>();
-    }
-
-    void OnDash(InputValue inputValue)
-    {
-        print("Can Dash");
-        
-        //StartCoroutine(Dash());
     }
 
     /*IEnumerator Dash()
