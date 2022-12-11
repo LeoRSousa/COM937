@@ -27902,7 +27902,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 828465637385630676, guid: f8e711a495fcec647af8c091c88cd504, type: 3}
       propertyPath: lines.Array.size
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 828465637385630676, guid: f8e711a495fcec647af8c091c88cd504, type: 3}
       propertyPath: lines.Array.data[0]
@@ -27914,13 +27914,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 828465637385630676, guid: f8e711a495fcec647af8c091c88cd504, type: 3}
       propertyPath: lines.Array.data[2]
-      value: "Sua nave est\xE1 danificada e n\xE3o pode mais seguir viagem.\\nVoc\xEA
-        precisa procurar as pe\xE7as que ca\xEDram no caminho e concert\xE1-la!!!"
+      value: "Sua nave est\xE1 danificada e n\xE3o pode mais seguir viagem."
       objectReference: {fileID: 0}
     - target: {fileID: 828465637385630676, guid: f8e711a495fcec647af8c091c88cd504, type: 3}
       propertyPath: lines.Array.data[3]
-      value: "Sua nave est\xE1 danificada e n\xE3o pode mais seguir viagem.\\nVoc\xEA
-        precisa procurar as pe\xE7as que ca\xEDram no caminho e concert\xE1-la!!!"
+      value: "Voc\xEA realiza um pouso for\xE7ado em um lugar estranho."
+      objectReference: {fileID: 0}
+    - target: {fileID: 828465637385630676, guid: f8e711a495fcec647af8c091c88cd504, type: 3}
+      propertyPath: lines.Array.data[4]
+      value: "Voc\xEA precisa procurar as pe\xE7as que ca\xEDram no caminho e consert\xE1-la!!!"
       objectReference: {fileID: 0}
     - target: {fileID: 828465637527599394, guid: f8e711a495fcec647af8c091c88cd504, type: 3}
       propertyPath: m_text

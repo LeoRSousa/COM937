@@ -36,7 +36,7 @@ public class Hero : MonoBehaviour
         boxCollider = GetComponent<BoxCollider2D>();
         _life = FindObjectOfType<Life>();
         _death = GameObject.FindWithTag("MorteUI");
-        _death.SetActive(false);
+        if(_death != null) _death.SetActive(false);
     }
 
     // Update is called once per frame
