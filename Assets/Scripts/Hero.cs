@@ -78,5 +78,18 @@ public class Hero : MonoBehaviour
         yield return new WaitForSeconds(dmgDur);
         playerAnimator.SetBool("isDamaged", false);
     }
+
+    public void Morrer()
+    {
+        _death.SetActive(true);
+        ResetStatus();
+    }
+
+    private void ResetStatus()
+    {
+        PlayerPrefs.SetInt("vidaQt", 10);
+        PlayerPrefs.SetInt("vidaMax", 10);
+        PlayerPrefs.SetInt("PlayerDano", 1);
+    }
     
 }

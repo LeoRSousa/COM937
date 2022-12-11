@@ -30,12 +30,7 @@ public class Life : MonoBehaviour
         AttView();
     }
 
-    /*private void Update()
-    {
-        PlayerPrefs.SetInt("vidaQt", vida);
-        PlayerPrefs.SetInt("vidaMax", vidaMax);
-        PlayerPrefs.SetInt("PlayerDano", _dano);
-    }*/
+    
 
     /// <summary>
     /// Muda os valores da vida e da vida máxima
@@ -101,7 +96,7 @@ public class Life : MonoBehaviour
     public void Morte()
     {
         _hero.playerAnimator.SetBool("isDeath", true);
-        _hero._death.SetActive(true);
+        _hero.Morrer();
     }
 
     /// <summary>

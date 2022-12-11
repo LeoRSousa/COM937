@@ -8,6 +8,9 @@ public class Enemy1_Vertical : MonoBehaviour
     [SerializeField] float enemyVelocidade = 2;
     private SpriteRenderer mySpriteRenderer;
     private Hero _hero;
+    private int _enemyLife = 3;
+    private int _danoSofrido;
+    private int playerDano = 1;
 
     void Start()
     {
@@ -20,6 +23,7 @@ public class Enemy1_Vertical : MonoBehaviour
     void Update()
     {
         Mover();
+        playerDano = PlayerPrefs.GetInt("PlayerDano");
     }
     
     void Mover()
@@ -38,7 +42,27 @@ public class Enemy1_Vertical : MonoBehaviour
         {
             _hero._life.TomaDano(1);
         }
+        
         enemyVelocidade = -enemyVelocidade;
         FlipSprite();
+    }
+    
+    private void OnTriggerEnter2D(Collider2D col)
+    {
+        if (col.CompareTag("Bullet"))
+        {
+            print("Dano");
+            TomaDano();
+        }
+    }
+    
+    private void TomaDano()
+    {
+        _enemyLife -= playerDano;
+        if (_enemyLife == 0)
+        {
+            print("Morto");
+            Destroy(this.gameObject);
+        }
     }
 }
