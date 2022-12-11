@@ -8,10 +8,12 @@ public class EnemyGFX : MonoBehaviour
 {
     public AIPath aiPath;
     private Animator enemy;
+    private Hero _hero;
 
     private void Start()
     {
         enemy = GetComponent<Animator>();
+        _hero = FindObjectOfType<Hero>();
     }
 
     void Update()
@@ -28,21 +30,15 @@ public class EnemyGFX : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D col)
     {
-        print("Modo de combate");
-        enemy.SetBool("isTouching", true);
+        if (col.name == "Hero")
+        {
+            enemy.SetBool("isTouching", true);
+            _hero._life.TomaDano(8);
+        }
     }
 
     private void OnTriggerExit2D(Collider2D other)
     {
         enemy.SetBool("isTouching", false);
     }
-
-    /*private void OnCollisionEnter2D(Collision2D col)
-    {
-        if (col.gameObject.name == "Hero")
-        {
-            enemy.SetBool("isTouching", true);
-            print("Modo de combate");
-        }
-    }*/
 }

@@ -11579,7 +11579,7 @@ GameObject:
   m_Component:
   - component: {fileID: 902706459}
   - component: {fileID: 902706460}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: LevelLoaderMenu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35019,7 +35019,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1567738104}
   - component: {fileID: 1567738103}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Vida
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35289,7 +35289,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1652806441}
   - component: {fileID: 1652806442}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: LevelLoaderRestart
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35699,7 +35699,7 @@ GameObject:
   - component: {fileID: 1761937830}
   - component: {fileID: 1761937832}
   - component: {fileID: 1761937831}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: LabelVidaMax
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36284,7 +36284,7 @@ GameObject:
   - component: {fileID: 1875896465}
   - component: {fileID: 1875896467}
   - component: {fileID: 1875896466}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Barra
   m_TagString: Untagged
   m_Icon: {fileID: 0}
