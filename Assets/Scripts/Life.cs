@@ -84,6 +84,8 @@ public class Life : MonoBehaviour
     public void TomaDano(int val)
     {
         vida -= val;
+        if(vida <= 0)
+            vida = 0;
         PlayerPrefs.SetInt("vidaQt", vida);
         SetValue("Life");
         if (vida <= 0) Morte();
