@@ -16,6 +16,7 @@ public class Heart : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D col)
     {
         _hero._life.AddLife();
+        _hero._life.Cura();
         Destroy(this.gameObject);
     }
 }
