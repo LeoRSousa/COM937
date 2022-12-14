@@ -317,10 +317,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 31438534}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 59f22cb1fbccb4d40b5cf9828f6431f4, type: 3}
+  m_Script: {fileID: 11500000, guid: 7940a4190e0962541a2a0e4f3d8ec29d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerAnimator: {fileID: 0}
+  playerAnimator: {fileID: 31438541}
   dmgDur: 0.4
   _life: {fileID: 0}
   _death: {fileID: 0}
@@ -35133,7 +35133,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 6657135851799128035}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 25f28a0d9981acf44815d4e71ff04412, type: 3}
+  m_Script: {fileID: 11500000, guid: 7932e7bf526c1364fbe172b1c8420b27, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   shipPart: 1

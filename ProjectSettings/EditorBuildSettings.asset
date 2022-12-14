@@ -25,12 +25,15 @@ EditorBuildSettings:
     guid: a5302928ff7e33f44babe7ff3753abae
   - enabled: 1
     path: Assets/Scenes/Maze1.unity
+    guid: 17f5e6433748a2740898862fb38d44cf
+  - enabled: 1
+    path: Assets/Scenes/Maze2p.unity
+    guid: 24ff2642e4896db4dbe3f417ba6fb9b1
+  - enabled: 1
+    path: Assets/Scenes/Maze3p.unity
     guid: a887832421ffb0e44bd0960240ea029e
   - enabled: 1
-    path: Assets/Scenes/Maze2.unity
-    guid: 212c12b0890850e43b16797c0a23a0bc
-  - enabled: 1
-    path: Assets/Scenes/Maze3.unity
-    guid: c532eb48d7bfea0418d77d1b0402ec2e
+    path: Assets/Scenes/Lore3.unity
+    guid: 4b39b795249383641a8a7424a2e7f391
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: c065a12597e5d0647b8a0e367f6934c1, type: 2}

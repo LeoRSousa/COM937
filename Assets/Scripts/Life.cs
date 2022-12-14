@@ -111,8 +111,15 @@ public class Life : MonoBehaviour
     /// </summary>
     public void Cura()
     {
-        if (vida >= vidaMax) return;
-        vida++;
+        if (vida == vidaMax) return;
+        vida+=3;
+        if (vida > vidaMax)
+        {
+            while (vida > vidaMax)
+            {
+                vida--;
+            }
+        }
         PlayerPrefs.SetInt("vidaQt", vida);
         SetValue("Life");
     }
