@@ -2,13 +2,16 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Ship : MonoBehaviour
 {
+    private GameObject dialogue;
     // Start is called before the first frame update
     void Start()
     {
-        
+        dialogue = GameObject.FindWithTag("ShipPartDialogue");
+        dialogue.SetActive(false);
     }
 
     // Update is called once per frame
@@ -28,13 +31,20 @@ public class Ship : MonoBehaviour
             if (SP1 == 1 & SP2 == 1 & SP3 == 1)
             {
                 //Chama a cena final aqui
-                print("Vaza fia!");
+                SceneManager.LoadScene(7);
+
             }
             else
             {
                 //Avisa que ainda faltam partes
-                print("Vc não tds partes ainda");
+                StartCoroutine(ItemDialogue());
             }
         }
+    }
+    private IEnumerator ItemDialogue()
+    {
+        dialogue.SetActive(true);
+        yield return new WaitForSeconds(3);
+        dialogue.SetActive(false);
     }
 }
