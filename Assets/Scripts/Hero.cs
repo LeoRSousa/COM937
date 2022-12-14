@@ -44,7 +44,7 @@ public class Hero : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(_death.activeSelf != true)
+        //if(_death.activeSelf != true)
             Correr();
     }
     
@@ -82,11 +82,17 @@ public class Hero : MonoBehaviour
         playerAnimator.SetBool("isDamaged", false);
     }
 
+    /*public void SetCarringValues(bool isCarring, int partNumber)
+    {
+        _carring = isCarring;
+        _part = partNumber;
+    }*/
+
     public void Morrer()
     {
         _death.SetActive(true);
         ResetStatus();
-        if(_carring) _life.RemoveShipParts(_part);
+        //if(_carring) _life.RemoveShipParts(_part);
     }
 
     private void ResetStatus()

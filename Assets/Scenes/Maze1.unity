@@ -35136,7 +35136,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 25f28a0d9981acf44815d4e71ff04412, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  shipPart: 0
+  shipPart: 1
 --- !u!4 &1633944063 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4955992406964226249, guid: 30be1befa104dbf4fa0daeac562f490e, type: 3}
