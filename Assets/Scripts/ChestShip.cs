@@ -15,7 +15,7 @@ public class ChestShip : MonoBehaviour
     private Hero _hero;
     private GameObject _dialogue;
 
-    [SerializeField] private int shipPart;
+    [SerializeField] private int shipPart = 0;
     private static readonly int IsOpen = Animator.StringToHash("isOpen");
 
     // Start is called before the first frame update
@@ -35,8 +35,7 @@ public class ChestShip : MonoBehaviour
         if (!chestAnimator.GetBool(IsOpen))
         {
             StartCoroutine(ItemDialogue());
-            //print("Você recebeu uma parte da sua nave!");
-            _hero._life.AddShipParts();
+            _hero._life.AddShipParts(shipPart);
         }
         chestAnimator.SetBool(IsOpen, true);
     }

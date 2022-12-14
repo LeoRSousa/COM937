@@ -15,8 +15,10 @@ public class Life : MonoBehaviour
     private int vidaMax;
     private int _dano;
 
-    //Var da nave
-    private int _shipPart = 0;
+    //Var da parte nave
+    private int _shipPart1 = 0;
+    private int _shipPart2 = 0;
+    private int _shipPart3 = 0;
 
     // Start is called before the first frame update
 
@@ -28,6 +30,9 @@ public class Life : MonoBehaviour
         _textList = FindObjectsOfType<TextMeshProUGUI>();
         _hero = FindObjectOfType<Hero>();
         AttView();
+        _shipPart1 = PlayerPrefs.GetInt("SP1"); 
+        _shipPart2 = PlayerPrefs.GetInt("SP2");
+        _shipPart3 = PlayerPrefs.GetInt("SP3");
     }
 
     
@@ -126,10 +131,40 @@ public class Life : MonoBehaviour
         SetValue("Dano");
     }
 
-    public void AddShipParts()
+    public void AddShipParts(int part)
     {
-        if(_shipPart == 3) return;
-        _shipPart++;
+        switch (part)
+        {
+            case 1:
+                PlayerPrefs.SetInt("SP1", 1);
+                break;
+            case 2:
+                PlayerPrefs.SetInt("SP2", 1);
+                break;
+            case 3:
+                PlayerPrefs.SetInt("SP3", 1);
+                break;
+            default:
+                break;
+        }
+    }
+    
+    public void RemoveShipParts(int part)
+    {
+        switch (part)
+        {
+            case 1:
+                PlayerPrefs.SetInt("SP1", 0);
+                break;
+            case 2:
+                PlayerPrefs.SetInt("SP2", 0);
+                break;
+            case 3:
+                PlayerPrefs.SetInt("SP3", 0);
+                break;
+            default:
+                break;
+        }
     }
 
     private void AttView()

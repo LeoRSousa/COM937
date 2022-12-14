@@ -13,6 +13,8 @@ public class Hero : MonoBehaviour
     BoxCollider2D boxCollider;
     float playerVelo = 3;
     Vector2 playerInput;
+    private bool _carring = false;
+    private int _part = 0;
     
     //public string[] playerItems = new string[] {"Arma", "Escudo"};
     private List<string> _playerItems = new List<string>();
@@ -42,11 +44,8 @@ public class Hero : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (_death != null)
-        {
-            if(_death.activeSelf != true)
-                Correr();
-        }     
+        if(_death.activeSelf != true)
+            Correr();
     }
     
     void Correr(){
@@ -87,6 +86,7 @@ public class Hero : MonoBehaviour
     {
         _death.SetActive(true);
         ResetStatus();
+        if(_carring) _life.RemoveShipParts(_part);
     }
 
     private void ResetStatus()
