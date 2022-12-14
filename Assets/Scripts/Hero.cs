@@ -42,11 +42,7 @@ public class Hero : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (_death != null)
-        {
-            if(_death.activeSelf != true)
-                Correr();
-        }     
+        Correr();
     }
     
     void Correr(){
