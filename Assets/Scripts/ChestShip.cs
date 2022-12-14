@@ -36,7 +36,7 @@ public class ChestShip : MonoBehaviour
         {
             StartCoroutine(ItemDialogue());
             _hero._life.AddShipParts(shipPart);
-            //_hero.SetCarringValues(true, shipPart);
+            _hero.SetCarringValues(true, shipPart);
         }
         chestAnimator.SetBool(IsOpen, true);
     }
