@@ -28,6 +28,7 @@ public class Ship : MonoBehaviour
             if (SP1 == 1 & SP2 == 1 & SP3 == 1)
             {
                 //Chama a cena final aqui
+                print("final");
             }
             else
             {
